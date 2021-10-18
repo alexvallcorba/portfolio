@@ -1,5 +1,6 @@
 import React from "react"
 import "./Portfolio.css"
+import { Link } from "react-router-dom";
 
 export default function Portfolio() {
   return (
@@ -12,9 +13,12 @@ export default function Portfolio() {
           </a>
         </div>
         <div className="info">
-          <p>
-          Web application that allows the user to shop for surfboards from this brand and also customize their own surfboard (dimensions). Full CRUD and authentication. Utilized: React, Rubi on Rails, CSS.
-          </p>
+        <a className="anchor1" target="_blank" href="https://github.com/alexvallcorba/kaimana-surfboards">
+            <img className="github-logo" src="https://res.cloudinary.com/dhkeoqhmp/image/upload/v1634583817/PROJECT-4.%20KAIMANA%20SURFBOARDS%20APP/github-logo-blue_bmcetd.png" alt="Github logo" />
+          </a>
+          <a className="anchor1" target="_blank" href="https://www.linkedin.com/in/alex-vallcorba-70a158208/">
+            <img className="linkedin-logo" src="https://res.cloudinary.com/dhkeoqhmp/image/upload/v1634583816/PROJECT-4.%20KAIMANA%20SURFBOARDS%20APP/linkedin-logo-blue-1_korqtj.png" alt="Linkedin logo" />
+          </a>
         </div>
       </div>
       <div className="portfolio">
@@ -24,9 +28,12 @@ export default function Portfolio() {
           </a>
         </div>
         <div className="info">
-          <p>
-          Web application built in a team of fellow junior engineers that allows the user to easily navigate  coffee blends and merchandise. Full CRUD and authentication. Utilized: React, Express, Mongo DB, Mongoose, Bootstarp, CSS.
-          </p>
+        <a className="anchor1" target="_blank" href="https://github.com/alexvallcorba/boom-roasted">
+            <img className="github-logo" src="https://res.cloudinary.com/dhkeoqhmp/image/upload/v1634583817/PROJECT-4.%20KAIMANA%20SURFBOARDS%20APP/github-logo-blue_bmcetd.png" alt="Github logo" />
+          </a>
+          <a className="anchor1" target="_blank" href="https://www.linkedin.com/in/alex-vallcorba-70a158208/">
+            <img className="linkedin-logo" src="https://res.cloudinary.com/dhkeoqhmp/image/upload/v1634583816/PROJECT-4.%20KAIMANA%20SURFBOARDS%20APP/linkedin-logo-blue-1_korqtj.png" alt="Linkedin logo" />
+          </a>
         </div>
       </div>
       <div className="portfolio">
@@ -36,9 +43,12 @@ export default function Portfolio() {
           </a>
         </div>
         <div className="info">
-          <p className="paragraph">
-            ORWEL THE CHICKEN AVENGER:  Web application to promote and introduce the graphic nobel with the same name to comic book fans. The users can navigate the app to meet the characters of the comic and learn about their characteristic and they also can create and delete sggestions for new characters. Comes with a 30sec comercial of the comic made with Adobe AfterEffects. Utilized: React, CSS, Airtable.
-          </p>
+        <a className="anchor1" target="_blank" href="https://github.com/alexvallcorba/orwel-the-chicken-avenger">
+            <img className="github-logo" src="https://res.cloudinary.com/dhkeoqhmp/image/upload/v1634583817/PROJECT-4.%20KAIMANA%20SURFBOARDS%20APP/github-logo-blue_bmcetd.png" alt="Github logo" />
+            <a className="anchor1" target="_blank" href="https://www.linkedin.com/in/alex-vallcorba-70a158208/">
+            <img className="linkedin-logo" src="https://res.cloudinary.com/dhkeoqhmp/image/upload/v1634583816/PROJECT-4.%20KAIMANA%20SURFBOARDS%20APP/linkedin-logo-blue-1_korqtj.png" alt="Linkedin logo" />
+          </a>
+          </a>
         </div>
       </div>
       <div className="portfolio">
@@ -49,9 +59,12 @@ export default function Portfolio() {
           </a>
         </div>
         <div className="info">
-          <p>
-          web application for a travel guide that allows users to search anyshops, airports, hotels, restaurants, tourist locations with their address, map location and price rating all over the world. Utilized: Javascript, CSS, HTML, Yelp API.
-          </p>
+        <a className="anchor1" target="_blank" href="https://github.com/alexvallcorba/Cool-and-Wonderful-Guide-to-the-World">
+            <img className="github-logo" src="https://res.cloudinary.com/dhkeoqhmp/image/upload/v1634583817/PROJECT-4.%20KAIMANA%20SURFBOARDS%20APP/github-logo-blue_bmcetd.png" alt="Github logo" />
+            <a className="anchor1" target="_blank" href="https://www.linkedin.com/in/alex-vallcorba-70a158208/">
+            <img className="linkedin-logo" src="https://res.cloudinary.com/dhkeoqhmp/image/upload/v1634583816/PROJECT-4.%20KAIMANA%20SURFBOARDS%20APP/linkedin-logo-blue-1_korqtj.png" alt="Linkedin logo" />
+          </a>
+          </a>
         </div>
       </div>
     </div>

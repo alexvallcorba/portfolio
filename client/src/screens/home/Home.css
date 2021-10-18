@@ -1,0 +1,17 @@
+.home {
+  background-image: url(https://res.cloudinary.com/dhkeoqhmp/image/upload/v1634586500/PROJECT-4.%20KAIMANA%20SURFBOARDS%20APP/home-background-portfolio_fkkt1z.png);
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+  height: 100vh;
+  
+
+}
+
+.title {
+  color: black;
+  display: flex;
+  margin-top: 200px;
+
+}

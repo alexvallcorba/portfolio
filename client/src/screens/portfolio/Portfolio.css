@@ -1,3 +1,39 @@
+
+
+.portfolio-container {
+  display: flex;
+
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  flex-direction: row;
+  align-items: center ;
+  height: 100%;
+  margin-top: 100px;
+
+}
+.portfolio {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: space-between;
+
+
+}
+
+img {
+  height:20px;
+  padding-left: 25px;
+  align-items: center;
+  margin-top: 0px;
+  margin-bottom: 3px;
+}
+
+
+  
+
+
 .image-app {
   height:300px;
+  margin-top: 30px;
+  
 }

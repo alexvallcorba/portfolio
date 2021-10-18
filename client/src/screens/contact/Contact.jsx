@@ -33,7 +33,7 @@ const Contact = () => {
     e.target.reset()
   };
 return (
-    <div className="App">
+    <div className="Contact">
       <Form onSubmit={handleOnSubmit}>
         <Form.Field
           id='form-input-control-email'
@@ -63,7 +63,7 @@ return (
           placeholder='Message…'
           required
         />
-        <Button type='submit' color='green'>Submit</Button>
+        <Button type='submit'color='blue'>Submit</Button>
       </Form>
     </div>
   );
