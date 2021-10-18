@@ -1,5 +1,5 @@
 .home {
-  background-image: url(https://res.cloudinary.com/dhkeoqhmp/image/upload/v1634586500/PROJECT-4.%20KAIMANA%20SURFBOARDS%20APP/home-background-portfolio_fkkt1z.png);
+  background-image: url(https://res.cloudinary.com/dhkeoqhmp/image/upload/v1634589791/PROJECT-4.%20KAIMANA%20SURFBOARDS%20APP/alley_vkzwmj.png);
   background-attachment: fixed;
   background-repeat: no-repeat;
   background-size: cover;
@@ -9,9 +9,22 @@
 
 }
 
-.title {
-  color: black;
-  display: flex;
-  margin-top: 200px;
+.name {
+  /* font-family: 'Permanent Marker', cursive;  */
+  font-size: 150px; 
+  color:  black;
+  text-align: center;
+  padding-top: 500px;
+  margin-bottom: -25px;
+  font-family: 'Righteous', cursive;
 
+
+}
+
+.title {
+  font-size: 65px; 
+  color:  white;
+  text-align: center;
+  padding-top: 0px;
+  font-family: 'Righteous', cursive;
 }

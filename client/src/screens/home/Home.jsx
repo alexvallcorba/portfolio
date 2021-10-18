@@ -3,8 +3,13 @@ import './Home.css'
 
 function Home() {
   return (
-      <div className='home'>
-      <h1 className="title" >ALEX VALLCORBA</h1>
+    <div className='home'>
+      <div className="box" >
+      <h1 className="name" >alex vallcorba</h1>
+      <h3 className="title" >
+      full-stack web developer
+        </h3>
+        </div>
       </div>
   )
 }
