@@ -23,7 +23,21 @@ ul {
   margin-top: 7px;
 }
 
+.resume {
+  flex-direction: row;
+  display: flex;
+  font-size: px;  
+  color: white;
+  text-decoration: none;
+  padding-top: 27px;
 
+
+}
+
+.resume:hover {
+color: yellow;
+
+}
 
 .links {
   flex-direction: row;

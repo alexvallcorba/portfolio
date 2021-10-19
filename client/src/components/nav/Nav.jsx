@@ -27,19 +27,22 @@ function NavBar() {
       </li>
       
       <li>
-        <Link   to="https://drive.google.com/file/d/1m-yewP_WTovuUr-YLzdyV1spdhSm_PFe/view?ths=true" className="links">
-          RESUME
-        </Link>
-      </li>
-      <li>
       <Link to="/contact" className="links">
           CONTACT
         </Link>
-        </li>
-      
+      </li>
+
+      <li>
+        <a className="anchor1" target="_blank" href="https://drive.google.com/file/d/1m-yewP_WTovuUr-YLzdyV1spdhSm_PFe/view?ths=true">
+        <h3 className="resume">RESUME</h3>
+        </a>
+      </li>
     </ul>
         
   );
 }
+          
+      
+        
 
 export default NavBar;
