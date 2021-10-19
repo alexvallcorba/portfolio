@@ -33,7 +33,7 @@ function NavBar() {
       </li>
 
       <li>
-        <a className="anchor1" target="_blank" href="https://drive.google.com/file/d/1m-yewP_WTovuUr-YLzdyV1spdhSm_PFe/view?ths=true">
+        <a className="anchor1" target="_blank" href="https://drive.google.com/file/d/1zeHwEeoroXEhxfavGTZ1nfGat3ZEYLcW/view">
         <h3 className="resume">RESUME</h3>
         </a>
       </li>

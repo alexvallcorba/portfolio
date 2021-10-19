@@ -7,6 +7,8 @@
   margin-left: 350px;
   margin-right: 300px;
   position: fixed;
+  font-family: 'Cairo', sans-serif;
+  font-size: 15px;
 
 }
 
@@ -24,7 +26,8 @@
   display: inline-block;
   border: none;
   background: #f1f1f1;
-  
+  font-family: 'Cairo', sans-serif;
+  font-size: 15px;
 }
 
 .submit-button {
@@ -35,7 +38,8 @@
   border: none;
   cursor: pointer;
   width:50%;
-  font-size: 15px;
+  font-size: 30px;
+  font-family: 'Cairo', sans-serif;
 }
 
 .submit-button:hover {

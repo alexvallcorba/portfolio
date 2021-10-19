@@ -30,6 +30,7 @@ ul {
   color: white;
   text-decoration: none;
   padding-top: 27px;
+  font-family: 'Cairo', sans-serif;
 
 
 }
@@ -48,6 +49,7 @@ color: yellow;
   padding-left: 75px;
   text-decoration: none;
   margin-top: 30px;
+  font-family: 'Cairo', sans-serif;
 }
 
 .links:hover {
