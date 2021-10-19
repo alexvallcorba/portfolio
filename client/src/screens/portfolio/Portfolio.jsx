@@ -4,6 +4,10 @@ import { Link } from "react-router-dom";
 
 export default function Portfolio() {
   return (
+<div>
+      <h1 className="portfolio-title">PORTFOLIO</h1>
+
+      
     <div className="portfolio-container">
       
       <div className="portfolio">
@@ -67,6 +71,7 @@ export default function Portfolio() {
           </a>
         </div>
       </div>
-    </div>
+      </div>
+      </div>
   )
 }

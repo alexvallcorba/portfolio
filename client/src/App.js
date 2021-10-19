@@ -1,7 +1,7 @@
 import "./App.css";
 import { Switch, Route } from "react-router-dom";
 import Portfolio from "./screens/portfolio/Portfolio";
-// import About from "../../screens/about/About";
+import About from "./screens/about/About";
 import Contact from "./screens/contact/Contact";
 import Home from "./screens/home/Home";
 import Layout from './components/layout/Layout'
@@ -14,6 +14,9 @@ function App() {
         <Switch>
           <Route exact path="/">
             <Home />
+          </Route>
+          <Route path="/about">
+            <About />
           </Route>
           <Route path="/portfolio">
             <Portfolio />

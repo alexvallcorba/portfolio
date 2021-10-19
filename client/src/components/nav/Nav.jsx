@@ -10,7 +10,7 @@ function NavBar() {
           <img
             className="alex-logo"
             id="alex-logo"
-            src="https://res.cloudinary.com/dhkeoqhmp/image/upload/v1634588298/PROJECT-4.%20KAIMANA%20SURFBOARDS%20APP/alex-logo-yellow_csaapd.png"
+            src="https://res.cloudinary.com/dhkeoqhmp/image/upload/v1634480870/PROJECT-4.%20KAIMANA%20SURFBOARDS%20APP/alex-logo-white_mye35n.png"
             alt="Alex logo"
           />
         </Link>
