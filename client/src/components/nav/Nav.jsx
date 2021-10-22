@@ -22,7 +22,12 @@ function NavBar() {
       </li>
       <li>
         <Link to="/portfolio" className="links">
-          PORTFOLIO
+          WEB DEVELOPMENT
+        </Link>
+      </li>
+      <li>
+        <Link to="/design" className="links">
+          DESIGN
         </Link>
       </li>
       

@@ -5,13 +5,13 @@ import { Link } from "react-router-dom";
 export default function Portfolio() {
   return (
 <div>
-      <h1 className="portfolio-title">PORTFOLIO</h1>
+      <h1 className="portfolio-title">PROJECTS</h1>
 
       
     <div className="portfolio-container">
       <div className="project-description">
           <p>
-          KAIMANA SURFBOARDS:Web application that allows the user to shop for surfboards and create their custom surfboards. Full CRUD and authentication. Utilized: React, Rubi on Rails, CSS.
+          KAIMANA SURFBOARDS:Web application that allows the user to shop for surfboards and create their custom surfboards. Full CRUD and authentication. Utilized: React, Rubi on Rails, CSS. (WORK IN PROGRESS)
           </p>
       </div>
       <div className="portfolio">
