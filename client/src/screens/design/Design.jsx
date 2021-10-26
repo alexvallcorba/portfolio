@@ -1,6 +1,5 @@
 import React from "react";
 import "./Design.css";
-import { Link } from "react-router-dom";
 
 export default function Design() {
   return (

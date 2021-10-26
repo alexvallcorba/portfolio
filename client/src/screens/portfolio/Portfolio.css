@@ -21,13 +21,18 @@
   align-items: center ;
   height: 100%;
 }
-
+.project-name {
+  font-family: 'Cairo', sans-serif;
+  padding-top:75px;
+  margin-bottom: 5px;
+}
 .portfolio {
   display: flex;
   align-items: center;
   flex-direction: column;
   justify-content: space-between;
   width: 50%;
+  
 }
 
 .project-description {
@@ -42,19 +47,25 @@
   margin-top: 30px;
   font-family: 'Cairo', sans-serif;
 }
-
-img {
-  height:40px;
-  padding-left: 20px;
-  /* align-items: center; */
-  margin-top: 0px;
-  margin-bottom: 3px;
+.link-github-code {
+ 
+  font-size: 15px;
+  font-family: 'Cairo', sans-serif;
+  text-align: center;
+  padding-top: 10px;
 }
+.github-logo {
+  
+  height:25px;
+ margin-left: 50px;
+}
+
 
 .image-app {
+  margin-top: 20px;
   height:450px;
-  margin-top: 10px;
 }
+
   
   
 

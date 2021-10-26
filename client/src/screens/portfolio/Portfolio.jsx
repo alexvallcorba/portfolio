@@ -9,9 +9,10 @@ export default function Portfolio() {
 
       
     <div className="portfolio-container">
-      <div className="project-description">
+        <div className="project-description">
+          <h3 className="project-name">KAIMANA SURFBOARDS</h3>
           <p>
-          KAIMANA SURFBOARDS:Web application that allows the user to shop for surfboards and create their custom surfboards. Full CRUD and authentication. Utilized: React, Rubi on Rails, CSS. (WORK IN PROGRESS)
+          Web application that allows the user to shop for surfboards and create their custom surfboards. Full CRUD and authentication. Utilized: React, Rubi on Rails, CSS. (WORK IN PROGRESS)
           </p>
       </div>
       <div className="portfolio">
@@ -21,17 +22,17 @@ export default function Portfolio() {
           </a>
         </div>
         <div className="info">
+        <p className="link-github-code" >View project code here</p>
         <a className="anchor1" target="_blank" href="https://github.com/alexvallcorba/kaimana-surfboards">
             <img className="github-logo" src="https://res.cloudinary.com/dhkeoqhmp/image/upload/e_sepia:80/v1634583817/PROJECT-4.%20KAIMANA%20SURFBOARDS%20APP/github-logo-blue_bmcetd.png" alt="Github logo" />
           </a>
-          <a className="anchor1" target="_blank" href="https://www.linkedin.com/in/alex-vallcorba-70a158208/">
-            <img className="linkedin-logo" src="https://res.cloudinary.com/dhkeoqhmp/image/upload/e_sepia:80/v1634583816/PROJECT-4.%20KAIMANA%20SURFBOARDS%20APP/linkedin-logo-blue-1_korqtj.png" alt="Linkedin logo" />
-          </a>
+          
         </div>
         </div>
         <div className="project-description">
+          <h3 className="project-name">BOOM!ROASTED</h3>
           <p>
-          BOOM!ROASTED:Web application built in a team of fellow junior engineers that allows the user to easily navigate  coffee blends and merchandise. Full CRUD and authentication. Utilized: React, Express, Mongo DB, Mongoose, Bootstarp, CSS.
+            Web application built in a team of fellow junior engineers that allows the user to easily navigate  coffee blends and merchandise. Full CRUD and authentication. Utilized: React, Express, Mongo DB, Mongoose, Bootstarp, CSS.
           </p>
       </div>
       <div className="portfolio">
@@ -41,17 +42,17 @@ export default function Portfolio() {
           </a>
         </div>
         <div className="info">
+        <p className="link-github-code" >View project code here</p>
         <a className="anchor1" target="_blank" href="https://github.com/alexvallcorba/boom-roasted">
             <img className="github-logo" src="https://res.cloudinary.com/dhkeoqhmp/image/upload/e_sepia:80/v1634583817/PROJECT-4.%20KAIMANA%20SURFBOARDS%20APP/github-logo-blue_bmcetd.png" alt="Github logo" />
           </a>
-          <a className="anchor1" target="_blank" href="https://www.linkedin.com/in/alex-vallcorba-70a158208/">
-            <img className="linkedin-logo" src="https://res.cloudinary.com/dhkeoqhmp/image/upload/e_sepia:80/v1634583816/PROJECT-4.%20KAIMANA%20SURFBOARDS%20APP/linkedin-logo-blue-1_korqtj.png" alt="Linkedin logo" />
-          </a>
+          
         </div>
         </div>
         <div className="project-description">
+        <h3 className="project-name">ORWEL THE CHICKEN AVENGER</h3>
           <p>
-          ORWEL THE CHICKEN AVENGER:  App that is used to promote and introduce the graphic nobel with the same name to comic book. The users can navigate the app to meet the characters of the comic and learn about their characteristic and they also can create and delete sggestions for new characters. Comes with a 30sec comercial of the comic made with Adobe AfterEffects. Utilized: React, CSS, Airtable.
+            App for promotion of  the graphic nobel with the same name to comic book and culinary fans. The users can navigate the app to meet the characters of the comic and learn about their characteristic and they also can create and delete sggestions for new characters. Comes with recipes that the user can download. Has a 30sec comercial of the comic made with Adobe AfterEffects. Utilized: React, CSS, Airtable.
           </p>
       </div>
       <div className="portfolio">
@@ -60,18 +61,19 @@ export default function Portfolio() {
             <img className="image-app" src="https://res.cloudinary.com/dhkeoqhmp/image/upload/v1634575000/PROJECT-4.%20KAIMANA%20SURFBOARDS%20APP/orwel-app_nb8u5f.png" alt="Orwel the Chicken Avenger" />
           </a>
         </div>
-        <div className="info">
+          <div className="info">
+         <p className="link-github-code" >View project code here</p>
         <a className="anchor1" target="_blank" href="https://github.com/alexvallcorba/orwel-the-chicken-avenger">
             <img className="github-logo" src="https://res.cloudinary.com/dhkeoqhmp/image/upload/e_sepia:80/v1634583817/PROJECT-4.%20KAIMANA%20SURFBOARDS%20APP/github-logo-blue_bmcetd.png" alt="Github logo" />
-            <a className="anchor1" target="_blank" href="https://www.linkedin.com/in/alex-vallcorba-70a158208/">
-            <img className="linkedin-logo" src="https://res.cloudinary.com/dhkeoqhmp/image/upload/e_sepia:80/v1634583816/PROJECT-4.%20KAIMANA%20SURFBOARDS%20APP/linkedin-logo-blue-1_korqtj.png" alt="Linkedin logo" />
+            
           </a>
-          </a>
+          
         </div>
         </div>
         <div className="project-description">
+          <h3 className="project-name">COOL & WONDERFUL GUIDE 2 THE WORLD</h3>
           <p>
-          COOL & WONDERFUL GUIDE 2 THE WORLD: Travel guide that allows users to search anyshops, airports, hotels, restaurants, tourist locations with their address, map location and price rating all over the world. Utilized: Javascript, CSS, HTML, Yelp API.
+            Travel guide that allows users to search anyshops, airports, hotels, restaurants, tourist locations with their address, map location and price rating all over the world. Utilized: Javascript, CSS, HTML, Yelp API.
           </p>
       </div>
       <div className="portfolio">
@@ -82,11 +84,10 @@ export default function Portfolio() {
           </a>
         </div>
         <div className="info">
+        <p className="link-github-code" >View project code here</p>
         <a className="anchor1" target="_blank" href="https://github.com/alexvallcorba/Cool-and-Wonderful-Guide-to-the-World">
             <img className="github-logo" src="https://res.cloudinary.com/dhkeoqhmp/image/upload/e_sepia:80/v1634583817/PROJECT-4.%20KAIMANA%20SURFBOARDS%20APP/github-logo-blue_bmcetd.png" alt="Github logo" />
-            <a className="anchor1" target="_blank" href="https://www.linkedin.com/in/alex-vallcorba-70a158208/">
-            <img className="linkedin-logo" src="https://res.cloudinary.com/dhkeoqhmp/image/upload/e_sepia:80/v1634583816/PROJECT-4.%20KAIMANA%20SURFBOARDS%20APP/linkedin-logo-blue-1_korqtj.png" alt="Linkedin logo" />
-          </a>
+            
           </a>
         </div>
       </div>

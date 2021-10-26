@@ -46,6 +46,17 @@
   font-family: 'Cairo', sans-serif;
 }
 
+.resume-about {
+  font-family: 'Cairo', sans-serif;
+  font-size: 25px;
+  color: rgb(165, 2, 2);
+}
+
+.resume-about:hover {
+  color: yellow;
+
+}
+
 @media screen and (max-width: 480px) {
   .details-container {
     width: 80%;
