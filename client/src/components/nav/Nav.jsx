@@ -36,8 +36,8 @@ function NavBar() {
         </Link>
       </li>
       <li>
-        <Link to="/sneackers" className="links">
-           CUSTOM SNEACKERS
+        <Link to="/sneakers" className="links">
+           CUSTOM SNEAKERS
         </Link>
       </li> 
       <li>
@@ -47,7 +47,7 @@ function NavBar() {
       </li>
 
       <li>
-        <a className="anchor1" target="_blank" href="https://drive.google.com/file/d/1zeHwEeoroXEhxfavGTZ1nfGat3ZEYLcW/view?usp=sharing">
+        <a className="anchor1" target="_blank" href="https://drive.google.com/file/d/1zeHwEeoroXEhxfavGTZ1nfGat3ZEYLcW/view">
         <h3 className="resume">RESUME</h3>
         </a>
       </li>

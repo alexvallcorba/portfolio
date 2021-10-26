@@ -1,6 +1,5 @@
 import './Layout.css'
 import Nav from '../nav/Nav'
-// import Footer from '../footer/Footer'
 
 
 
@@ -11,7 +10,6 @@ function Layout(props) {
         <div className="layout-children">
             {props.children}
         </div>
-        {/* <Footer /> */}
     </div>
   );
 }

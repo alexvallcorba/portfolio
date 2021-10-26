@@ -71,7 +71,7 @@ export default function Design() {
         <div className="design-description">
           <p>Client: Green Almond Pantry. Washington, DC</p>
         </div>
-        <div className="logo">
+        <div className="logo-cagla">
           <div className="logo-page-image">
             <img
               className="image2"

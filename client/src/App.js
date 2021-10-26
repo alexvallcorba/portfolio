@@ -3,7 +3,7 @@ import { Switch, Route } from "react-router-dom";
 import Portfolio from "./screens/portfolio/Portfolio";
 import Design from "./screens/design/Design";
 import Paintings from "./screens/paintings/Paintings";
-// import Sneackers from "./screens/sneackers/Sneackers";
+import Sneakers from "./screens/sneakers/Sneakers";
 import About from "./screens/about/About";
 import Contact from "./screens/contact/Contact";
 import Home from "./screens/home/Home";
@@ -30,9 +30,9 @@ function App() {
           <Route path="/paintings">
             <Paintings />
           </Route>
-          {/* <Route path="/sneackers">
-            <Sneackers />
-          </Route> */}
+          <Route path="/sneakers">
+            <Sneakers />
+          </Route>
           <Route path="/contact">
             <Contact />
           </Route>

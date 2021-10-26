@@ -26,7 +26,7 @@ ul {
 .resume {
   flex-direction: row;
   display: flex;
-  font-size: px;  
+  font-size: 20px;  
   color: white;
   text-decoration: none;
   padding-top: 27px;
@@ -55,6 +55,7 @@ color: yellow;
 .links:hover {
 color: yellow;
 }
+
 
 
 

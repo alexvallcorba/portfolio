@@ -1,15 +1,11 @@
-
 .portfolio-title {
   display: flex;
-  align-items: center;
-  font-family: 'Montserrat Alternates', sans-serif;
+  font-family: "Montserrat Alternates", sans-serif;
   color: black;
   font-size: 50px;
   text-align: center;
-  padding-top: 100px;
-  margin-bottom: 0px;
   flex-direction: column;
-  font-family: 'Cairo', sans-serif;
+  font-family: "Cairo", sans-serif;
 }
 
 .portfolio-container {
@@ -18,12 +14,12 @@
   flex-direction: column;
   justify-content: space-evenly;
   flex-direction: row;
-  align-items: center ;
+  align-items: center;
   height: 100%;
 }
 .project-name {
-  font-family: 'Cairo', sans-serif;
-  padding-top:75px;
+  font-family: "Cairo", sans-serif;
+  padding-top: 45px;
   margin-bottom: 5px;
 }
 .portfolio {
@@ -32,7 +28,6 @@
   flex-direction: column;
   justify-content: space-between;
   width: 50%;
-  
 }
 
 .project-description {
@@ -45,27 +40,25 @@
   margin-right: 350px;
   margin-bottom: 0px;
   margin-top: 30px;
-  font-family: 'Cairo', sans-serif;
+  font-family: "Cairo", sans-serif;
 }
 .link-github-code {
- 
+  display: inline-block;
   font-size: 15px;
-  font-family: 'Cairo', sans-serif;
+  font-family: "Cairo", sans-serif;
   text-align: center;
-  padding-top: 10px;
+  padding-top: 20px;
 }
 .github-logo {
-  
-  height:25px;
- margin-left: 50px;
+  height: 25px;
+  margin-left: 10px;
 }
 
+.github-logo:hover {
+  transform: scale(1.3);
+}
 
 .image-app {
   margin-top: 20px;
-  height:450px;
+  height: 450px;
 }
-
-  
-  
-

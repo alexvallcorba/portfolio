@@ -22,7 +22,7 @@ export default function Portfolio() {
           </a>
         </div>
         <div className="info">
-        <p className="link-github-code" >View project code here</p>
+        <p className="link-github-code" >View project's code </p>
         <a className="anchor1" target="_blank" href="https://github.com/alexvallcorba/kaimana-surfboards">
             <img className="github-logo" src="https://res.cloudinary.com/dhkeoqhmp/image/upload/e_sepia:80/v1634583817/PROJECT-4.%20KAIMANA%20SURFBOARDS%20APP/github-logo-blue_bmcetd.png" alt="Github logo" />
           </a>
@@ -42,7 +42,7 @@ export default function Portfolio() {
           </a>
         </div>
         <div className="info">
-        <p className="link-github-code" >View project code here</p>
+        <p className="link-github-code" >View project's code</p>
         <a className="anchor1" target="_blank" href="https://github.com/alexvallcorba/boom-roasted">
             <img className="github-logo" src="https://res.cloudinary.com/dhkeoqhmp/image/upload/e_sepia:80/v1634583817/PROJECT-4.%20KAIMANA%20SURFBOARDS%20APP/github-logo-blue_bmcetd.png" alt="Github logo" />
           </a>
@@ -62,7 +62,7 @@ export default function Portfolio() {
           </a>
         </div>
           <div className="info">
-         <p className="link-github-code" >View project code here</p>
+         <p className="link-github-code" >View project's code</p>
         <a className="anchor1" target="_blank" href="https://github.com/alexvallcorba/orwel-the-chicken-avenger">
             <img className="github-logo" src="https://res.cloudinary.com/dhkeoqhmp/image/upload/e_sepia:80/v1634583817/PROJECT-4.%20KAIMANA%20SURFBOARDS%20APP/github-logo-blue_bmcetd.png" alt="Github logo" />
             
@@ -84,7 +84,7 @@ export default function Portfolio() {
           </a>
         </div>
         <div className="info">
-        <p className="link-github-code" >View project code here</p>
+        <p className="link-github-code" >View project's code</p>
         <a className="anchor1" target="_blank" href="https://github.com/alexvallcorba/Cool-and-Wonderful-Guide-to-the-World">
             <img className="github-logo" src="https://res.cloudinary.com/dhkeoqhmp/image/upload/e_sepia:80/v1634583817/PROJECT-4.%20KAIMANA%20SURFBOARDS%20APP/github-logo-blue_bmcetd.png" alt="Github logo" />
             
