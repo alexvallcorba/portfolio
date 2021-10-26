@@ -1,0 +1,71 @@
+.bm-burger-button {
+  display: none;
+}
+
+@media only screen and (max-width: 500px) {
+  /* Position and sizing of burger button */
+  .bm-burger-button {
+    position: fixed;
+    width: 36px;
+    height: 30px;
+    right: 36px;
+    top: 25px;
+    display: block;
+  }
+
+  .bm-burger-bars {
+    background: yellow;
+  }
+
+  .bm-burger-bars-hover {
+    background: #e4d9d9;
+  }
+
+
+  .bm-cross {
+    background: #bdc3c7;
+  }
+
+  .bm-menu-wrap {
+    position: fixed;
+    height: 100%;
+    align-items: flex-end
+    ;
+  }
+
+  .bm-menu {
+    background: #373a47;
+    padding: 2.5em 10.5em 0;
+    font-size: 0.6em;
+  }
+
+  /* .bm-morph-shape {
+    fill: #373a47;
+  } */
+
+  .bm-item-list a {
+    text-decoration: none;
+    color: yellow;
+    font-size: 2em;
+    align-items: center;
+  }
+
+  .bm-item {
+    display: grid !important;
+    grid-template-rows: 125px 125px 125px 125px;
+  }
+
+  .bm-overlay {
+    background: rgba(0, 0, 0, 0.3);
+  }
+}
+
+#bm-signout-button {
+  background: none;
+  border: none;
+  color: yellow;
+  font-size: 2em;
+  align-items: center;
+
+
+}
