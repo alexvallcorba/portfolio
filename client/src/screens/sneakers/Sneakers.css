@@ -1,8 +1,59 @@
-.work-sign {
-  height:500px;
+.sneakers-list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  flex-direction: row;
+  align-items: center;
+  height: 100%;
+  font-family: "Cairo", sans-serif;
+  font-size: 25px;
+  
+}
+
+.sneaker-container {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  margin-top: 120px;
+  padding-top: 0px;
+}
+
+.sneaker-name {
+  font-family: "Cairo", sans-serif;
+  font-size: 30px;
+  margin-left: 50px;
+
+}
+/* .work-sign1 {
   display: block;
-  margin-top: 100px;
   margin-left: auto;
   margin-right: auto;
+  height:175px;
+  margin-top: 100px;
+  
+} */
+.sneaker-image {
+  padding-left: 50px;
+  align-items: center;
+  padding-top: 20px;
+  height: 200px;
+  cursor:  zoom-in;
 
+}
+
+.sneaker-image:hover {
+  transform: scale(1.4);
+}
+
+@media screen and (max-width: 480px) {
+  .surfboard-container {
+    width: 80%;
+    display: flex;
+    justify-content: space-around;
+    flex-direction: column;
+    align-items: center;
+  }
+  .sneaker {
+    height: 150px;
+  }
 }
