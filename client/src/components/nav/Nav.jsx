@@ -47,7 +47,7 @@ function NavBar() {
       </li>
 
       <li>
-        <a className="anchor1" target="_blank" href="https://drive.google.com/file/d/1zeHwEeoroXEhxfavGTZ1nfGat3ZEYLcW/view">
+        <a className="anchor1" target="_blank" href="https://drive.google.com/file/d/1KImYTMEK-aIgGTQp05BGbtLTUVT2zp0s/view?usp=sharing">
         <h3 className="resume">RESUME</h3>
         </a>
       </li>
