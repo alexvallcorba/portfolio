@@ -5,7 +5,7 @@ import Swal from "sweetalert2";
 
 import "./Contact.css";
 
-const SERVICE_ID = "service_33n066c";
+const SERVICE_ID = "service_33n066c"; 
 const TEMPLATE_ID = "template_7agf96r";
 const USER_ID = "user_kTU8lthPQRClRdhZgLkgl";
 
