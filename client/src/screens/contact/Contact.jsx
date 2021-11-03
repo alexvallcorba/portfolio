@@ -68,7 +68,7 @@ const Contact = () => {
       <a
         className="anchor3"
         target="_blank"
-        href="https://drive.google.com/file/d/1zeHwEeoroXEhxfavGTZ1nfGat3ZEYLcW/view?usp=sharing"
+        href="https://drive.google.com/file/d/1KImYTMEK-aIgGTQp05BGbtLTUVT2zp0s/view?usp=sharing"
       >
         <h3 className="resume-contact">View my RESUME </h3>
       </a>
