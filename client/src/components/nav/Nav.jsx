@@ -1,5 +1,8 @@
 import React from "react";
 import { Link } from "react-router-dom";
+import { NavLink } from 'react-router-dom'
+import BurgerMenu from '../burgerMenu/BurgerMenu'
+
 import './Nav.css'
 
 function NavBar() {

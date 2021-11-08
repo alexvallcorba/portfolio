@@ -120,29 +120,25 @@ export default class Sidebar extends React.Component {
     this.closeMenu()
   };
 
-  authenticatedOptions = (
+  alwaysOptions = (
     <>
-      <NavLink onClick={() => this.closeMenu()}className="link" to="/about">ABOUT</NavLink>
-      <NavLink onClick={() => this.closeMenu()}className="link" to="/portfolio">WEB DEVELOPMENT</NavLink>
-      <NavLink onClick={() => this.closeMenu()}className="link" to="/design">DESIGN</NavLink>
-      <NavLink onClick={() => this.closeMenu()}className="link" to="/paintings">PAINTINGS</NavLink>
-      <NavLink onClick={() => this.closeMenu()}className="link" to="/sneakers">CUSTOM SNEAKERS</NavLink>
-      <NavLink onClick={() => this.closeMenu()} className="link menu-item" to="/contact">
+      <NavLink onClick={() => this.closeMenu()}className="bm-link menu-item" to="/about">ABOUT</NavLink>
+      <NavLink onClick={() => this.closeMenu()}className="bm-link menu-item" to="/portfolio">WEB DEVELOPMENT</NavLink>
+      <NavLink onClick={() => this.closeMenu()}className="bm-link menu-item" to="/design">DESIGN</NavLink>
+      <NavLink onClick={() => this.closeMenu()}className="bm-link menu-item" to="/paintings">PAINTINGS</NavLink>
+      <NavLink onClick={() => this.closeMenu()}className="bm-link menu-item" to="/sneakers">CUSTOM SNEAKERS</NavLink>
+      <NavLink onClick={() => this.closeMenu()} className="bm-link menu-item" to="/contact">
         CONTACT
       </NavLink>
-       {/* <NavLink className="link" to="/" onClick={props.handleLogout}>Log Out</NavLink> */}
+      {/* <a className="anchor1" target="_blank" href="https://drive.google.com/file/d/1KImYTMEK-aIgGTQp05BGbtLTUVT2zp0s/view?usp=sharing">
+        <h3 className="resume">RESUME</h3>
+        </a> */}
     </>
   );
 
   
 
-  // alwaysOptions = (
-  //   <>
-  //     <NavLink onClick={() => this.closeMenu()} className="link menu-item" to="/about-us">
-  //       About Us
-  //     </NavLink>
-  //   </>
-  // );
+  
 
   render() {
     return (
@@ -156,7 +152,7 @@ export default class Sidebar extends React.Component {
       >
         <main id="page-wrap">
           {this.alwaysOptions}
-          {this.props.currentUser ? this.authenticatedOptions : this.unauthenticatedOptions}
+          
         </main>
       </Menu>
     )
