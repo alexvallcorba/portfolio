@@ -57,7 +57,7 @@ const Contact = () => {
           id="form-textarea-control-opinion"
           control={TextArea}
           label="Message"
-          name="user_message"
+          name="message"
           placeholder="Message…"
           required
         />
