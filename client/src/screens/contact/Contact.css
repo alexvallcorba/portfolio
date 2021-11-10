@@ -6,6 +6,8 @@
   margin-right: 300px;
   font-family: 'Cairo', sans-serif;
   font-size: 15px;
+  /* z-index: 0; */
+  position: fixed;
 
 }
 
@@ -18,7 +20,7 @@
 
 .input {
   width: 100%;
-  padding: 20px;
+  padding: 18px;
   margin: 0px 0 0px 0;
   display: inline-block;
   border: none;
@@ -35,7 +37,7 @@
   border: none;
   cursor: pointer;
   width:50%;
-  font-size: 30px;
+  font-size: 20px;
   font-family: 'Cairo', sans-serif;
 }
 
@@ -44,10 +46,11 @@
 }
 
 .resume-contact {
-  text-align: center;
+  /* text-align: center; */
   font-family: "Cairo", sans-serif;
-  font-size: 25px;
+  font-size: 20px;
   color: rgb(165, 2, 2);
+  
 }
 
 .resume-contact:hover {
