@@ -1,6 +1,5 @@
 import React from "react";
 import { Link } from "react-router-dom";
-import { NavLink } from 'react-router-dom'
 import BurgerMenu from '../burgerMenu/BurgerMenu'
 
 import './Nav.css'
@@ -54,6 +53,8 @@ function NavBar() {
         <h3 className="resume">RESUME</h3>
         </a>
       </li>
+      <BurgerMenu  />
+
     </ul>
         
   );

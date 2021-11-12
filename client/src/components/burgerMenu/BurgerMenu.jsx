@@ -83,7 +83,7 @@
 
 import React from 'react';
 import { slide as Menu } from "react-burger-menu";
-import { NavLink } from "react-router-dom";
+import { Link } from "react-router-dom";
 import './BurgerMenu.css'
 
 export default class Sidebar extends React.Component {
@@ -122,17 +122,15 @@ export default class Sidebar extends React.Component {
 
   alwaysOptions = (
     <>
-      <NavLink onClick={() => this.closeMenu()}className="bm-link menu-item" to="/about">ABOUT</NavLink>
-      <NavLink onClick={() => this.closeMenu()}className="bm-link menu-item" to="/portfolio">WEB DEVELOPMENT</NavLink>
-      <NavLink onClick={() => this.closeMenu()}className="bm-link menu-item" to="/design">DESIGN</NavLink>
-      <NavLink onClick={() => this.closeMenu()}className="bm-link menu-item" to="/paintings">PAINTINGS</NavLink>
-      <NavLink onClick={() => this.closeMenu()}className="bm-link menu-item" to="/sneakers">CUSTOM SNEAKERS</NavLink>
-      <NavLink onClick={() => this.closeMenu()} className="bm-link menu-item" to="/contact">
+      <Link onClick={() => this.closeMenu()}className="bm-link menu-item" to="/about">ABOUT</Link>
+      <Link onClick={() => this.closeMenu()}className="bm-link menu-item" to="/portfolio">WEB DEVELOPMENT</Link>
+      <Link onClick={() => this.closeMenu()}className="bm-link menu-item" to="/design">DESIGN</Link>
+      <Link onClick={() => this.closeMenu()}className="bm-link menu-item" to="/paintings">PAINTINGS</Link>
+      <Link onClick={() => this.closeMenu()}className="bm-link menu-item" to="/sneakers">CUSTOM SNEAKERS</Link>
+      <Link onClick={() => this.closeMenu()} className="bm-link menu-item" to="/contact">
         CONTACT
-      </NavLink>
-      {/* <a className="anchor1" target="_blank" href="https://drive.google.com/file/d/1KImYTMEK-aIgGTQp05BGbtLTUVT2zp0s/view?usp=sharing">
-        <h3 className="resume">RESUME</h3>
-        </a> */}
+      </Link>
+      
     </>
   );
 
