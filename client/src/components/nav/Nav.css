@@ -67,15 +67,14 @@ color: yellow;
     flex-direction: column;
     width: 20%;
   }
-  .alex-logo {
-    height: 50%; 
-    /* border: rgb(208, 255, 0) 4px solid; */
-    /* margin-top: 15px; */
-
+  .alex-logo{
+    height: 55%;
+    margin-top: 50px;
   }
+   
   .links {
     display: none;
-    width: 100%;
+    width: 50%;
      margin-top: 0;
     /* padding-top: 0px;
     font-size: 5px;  */

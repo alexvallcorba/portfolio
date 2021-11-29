@@ -1,16 +1,7 @@
 
 
 
-/* @media only screen and (max-width: 480px) {
-  .bm-burger-button {
-    position: fixed;
-    width: 36px;
-    height: 30px;
-    right: 36px;
-    top: 25px;
-    display: block;
-  }
-}  */
+
 
 
 .bm-burger-button {
@@ -71,9 +62,9 @@
   } */
 
   /* Wrapper for item list */
-  /* .bm-item-list {
+  .bm-item-list {
     padding: 0.8em;
-  } */
+  }
 
   .bm-item-list a {
     text-decoration: none;
