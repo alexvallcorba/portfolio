@@ -1,15 +1,15 @@
 .home {
-  background-image: url(https://res.cloudinary.com/dhkeoqhmp/image/upload/v1634592998/PROJECT-4.%20KAIMANA%20SURFBOARDS%20APP/work1_x5qqlq.png);
+  /* background-image: url(https://res.cloudinary.com/dhkeoqhmp/image/upload/v1634592998/PROJECT-4.%20KAIMANA%20SURFBOARDS%20APP/work1_x5qqlq.png);
   background-attachment: fixed;
   background-repeat: no-repeat;
-  background-size: cover;
+  background-size: cover; */
   height: 100vh;
 
   
 
 }
 
-.name1 {
+/* .name1 {
 
   font-family: 'Montserrat Alternates', sans-serif;
   display: flex;
@@ -29,16 +29,15 @@
   background-color: rgba(171, 171, 171, 0.558);
   position: absolute;
 
-}
+} */
 
-.title {
+/* .title {
   font-family: 'Montserrat Alternates', sans-serif;
   display: flex;
   color:  rgb(255, 255, 255);
   font-size: 45px; 
   flex-direction: column;
   padding-left: 120px;
-  /* padding-top:100px; */
   padding-bottom:100px;
   justify-content: center;
   margin: 150px 0;
@@ -46,19 +45,20 @@
   left: 50%;
   top: 46%;
   transform: translate(-50%, -50%);
-  /* background-color: rgba(171, 171, 171, 0.558); */
   position: absolute;
 
-}
+} */
 
-.name1:hover {
+/* .name1:hover {
   color: yellow;
 }
 
 .title:hover {
   
   color: yellow;
-}
+} */
+
+
 
 @media screen and (max-width: 480px) {
   .home {
@@ -67,6 +67,10 @@
     justify-content: space-around;
     flex-direction: column;
     align-items: center;
+    
+    
   }
+  
+
 
 }

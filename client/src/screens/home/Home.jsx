@@ -5,10 +5,284 @@ function Home() {
   return (
     <div className="home">
       <div className="box">
-        <h1 className="name1">Àlex Vallcorba</h1>
-        <h3 className="title">full-stack web developer</h3>
-         
+        {/* <h1 className="name1">Àlex Vallcorba</h1>
+        <h3 className="title">full-stack web developer</h3> */}
+        <div>
+      <h1 className="portfolio-title">PROJECTS</h1>
+
+      
+    <div className="portfolio-container">
+        <div className="project-description">
+          <h3 className="project-name">KAIMANA SURFBOARDS</h3>
+          <p>
+          Web application that allows the user to shop for surfboards and create their custom surfboards. Full CRUD and authentication. Utilized: React, Rubi on Rails, CSS. (WORK IN PROGRESS)
+          </p>
       </div>
+      <div className="portfolio">
+        <div className="landing-page-image">
+          <a className="anchor" target="_blank" href="https://kaimana-surfboards.netlify.app/">
+            <img className="image-app" src="https://res.cloudinary.com/dhkeoqhmp/image/upload/v1634576444/PROJECT-4.%20KAIMANA%20SURFBOARDS%20APP/kaimana-app_auzbeq.png" alt="Kaimana Surfboards" />
+          </a>
+        </div>
+        <div className="info">
+        <p className="link-github-code" >View project's code </p>
+        <a className="anchor1" target="_blank" href="https://github.com/alexvallcorba/kaimana-surfboards">
+            <img className="github-logo" src="https://res.cloudinary.com/dhkeoqhmp/image/upload/e_sepia:80/v1634583817/PROJECT-4.%20KAIMANA%20SURFBOARDS%20APP/github-logo-blue_bmcetd.png" alt="Github logo" />
+          </a>
+          
+        </div>
+        </div>
+        <div className="project-description">
+          <h3 className="project-name">BOOM!ROASTED</h3>
+          <p>
+            Web application built in a team of fellow junior engineers that allows the user to easily navigate  coffee blends and merchandise. Full CRUD and authentication. Utilized: React, Express, Mongo DB, Mongoose, Bootstarp, CSS.
+          </p>
+      </div>
+      <div className="portfolio">
+        <div className="landing-page-image">
+          <a className="anchor" target="_blank" href="https://boom-roasted.netlify.app/">
+            <img className="image-app" src="https://res.cloudinary.com/dhkeoqhmp/image/upload/v1634576842/PROJECT-4.%20KAIMANA%20SURFBOARDS%20APP/boom-roasted-app_fmxuvu.png" alt="Boom! Roasted" />
+          </a>
+        </div>
+        <div className="info">
+        <p className="link-github-code" >View project's code</p>
+        <a className="anchor1" target="_blank" href="https://github.com/alexvallcorba/boom-roasted">
+            <img className="github-logo" src="https://res.cloudinary.com/dhkeoqhmp/image/upload/e_sepia:80/v1634583817/PROJECT-4.%20KAIMANA%20SURFBOARDS%20APP/github-logo-blue_bmcetd.png" alt="Github logo" />
+          </a>
+          
+        </div>
+        </div>
+        <div className="project-description">
+        <h3 className="project-name">ORWEL THE CHICKEN AVENGER</h3>
+          <p>
+            App for promotion of  the graphic nobel with the same name to comic book and culinary fans. The users can navigate the app to meet the characters of the comic and learn about their characteristic and they also can create and delete sggestions for new characters. Comes with recipes that the user can download. Has a 30sec comercial of the comic made with Adobe AfterEffects. Utilized: React, CSS, Airtable.
+          </p>
+      </div>
+      <div className="portfolio">
+        <div className="landing-page-image">
+          <a className="anchor" target="_blank" href="https://orwel-the-chicken-avenger.netlify.app/">
+            <img className="image-app" src="https://res.cloudinary.com/dhkeoqhmp/image/upload/v1634575000/PROJECT-4.%20KAIMANA%20SURFBOARDS%20APP/orwel-app_nb8u5f.png" alt="Orwel the Chicken Avenger" />
+          </a>
+        </div>
+          <div className="info">
+         <p className="link-github-code" >View project's code</p>
+        <a className="anchor1" target="_blank" href="https://github.com/alexvallcorba/orwel-the-chicken-avenger">
+            <img className="github-logo" src="https://res.cloudinary.com/dhkeoqhmp/image/upload/e_sepia:80/v1634583817/PROJECT-4.%20KAIMANA%20SURFBOARDS%20APP/github-logo-blue_bmcetd.png" alt="Github logo" />
+            
+          </a>
+          
+        </div>
+        </div>
+        <div className="project-description">
+          <h3 className="project-name">COOL & WONDERFUL GUIDE 2 THE WORLD</h3>
+          <p>
+            Travel guide that allows users to search anyshops, airports, hotels, restaurants, tourist locations with their address, map location and price rating all over the world. Utilized: Javascript, CSS, HTML, Yelp API.
+          </p>
+      </div>
+      <div className="portfolio">
+        <div className="landing-page-image">
+        <a className="anchor" target="_blank" href="https://cool-and-wonderful-guide-to-the-world.netlify.app/">
+
+          <img className="image-app" src="https://res.cloudinary.com/dhkeoqhmp/image/upload/v1634578556/PROJECT-4.%20KAIMANA%20SURFBOARDS%20APP/cool-app_uo31al.png" alt="Cool Traveling Guide" />
+          </a>
+        </div>
+        <div className="info">
+        <p className="link-github-code" >View project's code</p>
+        <a className="anchor1" target="_blank" href="https://github.com/alexvallcorba/Cool-and-Wonderful-Guide-to-the-World">
+            <img className="github-logo" src="https://res.cloudinary.com/dhkeoqhmp/image/upload/e_sepia:80/v1634583817/PROJECT-4.%20KAIMANA%20SURFBOARDS%20APP/github-logo-blue_bmcetd.png" alt="Github logo" />
+            
+          </a>
+        </div>
+      </div>
+      </div>
+        </div>
+      <h1 className="portfolio-title">SNEAKERS</h1>
+        
+      <div className="sneakers-list">
+      
+    
+        
+          <div className="sneaker-container">
+            
+        <div>
+          <h2 className=" sneaker-name">Vans The Slab</h2>
+        </div>
+        <div className="sneaker">
+          <img
+            className="sneaker-image"
+            src="https://res.cloudinary.com/dhkeoqhmp/image/upload/v1635358803/portfolio/thesklab-shoe_htrbed.png"
+            alt="Vans The Slab sneaker"
+          />
+        </div>
+      </div>
+      <div className="sneaker-container">
+        <div>
+          <h2 className=" sneaker-name">Adidas Greek God</h2>
+        </div>
+        <div className="sneaker">
+          <img
+            className="sneaker-image"
+            src="https://res.cloudinary.com/dhkeoqhmp/image/upload/v1635357120/portfolio/greek-shoe_lrq50y.png"
+            alt="Vans The Slab sneaker"
+          />
+        </div>
+      </div>
+      <div className="sneaker-container">
+        <div>
+          <h2 className=" sneaker-name">Vans Flower Garden</h2>
+        </div>
+        <div className="sneaker">
+          <img
+            className="sneaker-image"
+            src="https://res.cloudinary.com/dhkeoqhmp/image/upload/v1635357120/portfolio/flowers-shoe-3_gfaewp.png"
+            alt="Vans The Slab sneaker"
+          />
+        </div>
+      </div>
+      <div className="sneaker-container">
+        <div>
+          <h2 className=" sneaker-name">Vans Iron Man</h2>
+        </div>
+        <div className="sneaker">
+          <img
+            className="sneaker-image"
+            src="https://res.cloudinary.com/dhkeoqhmp/image/upload/c_scale,h_1000/v1635357120/portfolio/ironman-shoe_zffha1.png"
+            alt="Vans Iron Man"
+          />
+        </div>
+      </div>
+        </div>
+        <div>
+      <h1 className="portfolio-title">DESIGN</h1>
+
+      <div className="design-container">
+        <h2 className="design-name">T-shirt Design</h2>
+        <div className="design-description">
+          <p>Client: 2amys Neapolitan Pizzeria. Washington, DC.</p>
+        </div>
+        <div className="t-shirt">
+        <div className="tshirt-page-image">
+            <img
+              className="image2"
+              src="https://res.cloudinary.com/dhkeoqhmp/image/upload/v1634921755/portfolio/chocvie-can_saamx5.png"
+              alt="Anchovie can t-shirt"
+            />
+          </div>
+          <div className="tshirt-page-image">
+            <img
+              className="image2"
+              src="https://res.cloudinary.com/dhkeoqhmp/image/upload/v1634913304/portfolio/poli_pizzeria_t2_wi4wfs.png"
+              alt="Poli t-shirt"
+            />
+          </div>
+          <div className="tshirt-page-image">
+            <img
+              className="image2"
+              src="https://res.cloudinary.com/dhkeoqhmp/image/upload/v1634913304/portfolio/2a-truck_cnyxbg.png"
+              alt="Truck t-shirt"
+            />
+          </div><div className="tshirt-page-image">
+            <img
+              className="image2"
+              src="https://res.cloudinary.com/dhkeoqhmp/image/upload/v1634913304/portfolio/2a_tshirt_evoqxo.png"
+              alt="Flag t-shirt"
+            />
+          </div>
+        </div>
+
+        <h2 className="design-name">T-shirt Design</h2>
+        <div className="design-description">
+          <p>Client: Anxo Ciderie and Pintxos Bar. Washington, DC.</p>
+        </div>
+        <div className="t-shirt">
+          <div className="tshirt-page-image">
+            <img
+              className="image2"
+              src="https://res.cloudinary.com/dhkeoqhmp/image/upload/v1634913799/portfolio/anxo-t_qqpiqh.png"
+              alt="Anxo t-shirt"
+            />
+          </div>
+        </div>
+        <h2 className="design-name">Label Design</h2>
+        <div className="design-description">
+          <p>Client: Piedrasassi Wine & Bread. Lompoc, CA</p>
+        </div>
+        <div className="label">
+          <div className="label-page-image">
+            <img
+              className="image2"
+              src="https://res.cloudinary.com/dhkeoqhmp/image/upload/v1634922378/portfolio/vinsanto-piedrassasi_goxgoi.png"
+              alt="Piedrassasi label"
+            />
+          </div>
+        </div>
+        <h2 className="design-name">Logo Design and Mural</h2>
+        <div className="design-description">
+          <p>Client: Green Almond Pantry. Washington, DC</p>
+        </div>
+        <div className="logo-cagla">
+          <div className="logo-page-image">
+            <img
+              className="image2"
+              src="https://res.cloudinary.com/dhkeoqhmp/image/upload/v1634923371/portfolio/green-almpond-pantry_psnc86.png"
+              alt="Green Almond"
+            />
+          </div>
+        </div>
+        <h2 className="design-name">Poster</h2>
+        <div className="design-description">
+          <p>Client: Anxo Ciderie and Pintxos Bar. Washington, DC</p>
+        </div>
+        <div className="poster">
+          <div className="poster-page-image">
+            <img
+              className="image2"
+              src="https://res.cloudinary.com/dhkeoqhmp/image/upload/v1634924170/portfolio/shroom_poster_wl6qd0.png"
+              alt="shroom poster"
+            />
+          </div>
+        </div>
+        <h2 className="design-name">Skateboards</h2>
+        <div className="design-description">
+          <p>Client: Catalist Skateboards. Washington, DC</p>
+        </div>
+        <div className="sk8">
+          <div className="sk8-page-image">
+            <img
+              className="image2"
+              src="https://res.cloudinary.com/dhkeoqhmp/image/upload/v1634924625/portfolio/catalist-sk8_zqccap.png"
+              alt="choco ity sk8s"
+            />
+          </div>
+        </div>
+        <div className="design-description">
+          <p>Client: Kickballers. Washington, DC</p>
+        </div>
+        <div className="sk8">
+          <div className="sk8-page-image">
+            <img
+              className="image2"
+              src="https://res.cloudinary.com/dhkeoqhmp/image/upload/v1634924942/portfolio/money-cash_wlrljq.png"
+              alt="money and cash sk8s"
+            />
+          </div>
+        </div>
+        <div className="design-description">
+          <p>Client: Shut Skateboards. New York,NY</p>
+        </div>
+        <div className="sk8">
+          <div className="sk8-page-image">
+            <img
+              className="image2"
+              src="https://res.cloudinary.com/dhkeoqhmp/image/upload/v1634923934/portfolio/Screen_Shot_2021-10-22_at_1.31.54_PM_xhhzqh.png"
+              alt="Chuck Brown sk8s"
+            />
+          </div>
+      </div>
+      </div>
+    </div>
+      </div>
+
     </div>
   );
 }
