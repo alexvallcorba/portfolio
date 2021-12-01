@@ -30,10 +30,10 @@
   }
 
   /* Position and sizing of clickable cross button */
-  /* .bm-cross-button {
+  .bm-cross-button {
     height: 24px;
     width: 24px;
-  } */
+  }
 
   /* Color/shape of close button cross */
   .bm-cross {
@@ -45,6 +45,7 @@
   .bm-menu-wrap {
     position: fixed;
     height: 100%;
+    width: 100%;
     align-items: flex-end
 
   }
@@ -57,9 +58,9 @@
   }
 
   /* Morph shape necessary with bubble or elastic */
-  /* .bm-morph-shape {
+  .bm-morph-shape {
     fill: #373a47;
-  } */
+  }
 
   /* Wrapper for item list */
   .bm-item-list {
@@ -76,7 +77,7 @@
   /* Individual item */
   .bm-item {
     display: grid !important;
-    grid-template-rows: 125px 125px 125px 125px;
+    grid-template-rows: 75px 75px 75px 75px;
   }
 
   /* Styling of overlay */
