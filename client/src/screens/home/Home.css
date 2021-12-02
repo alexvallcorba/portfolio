@@ -1,13 +1,4 @@
-.home {
-  /* background-image: url(https://res.cloudinary.com/dhkeoqhmp/image/upload/v1634592998/PROJECT-4.%20KAIMANA%20SURFBOARDS%20APP/work1_x5qqlq.png);
-  background-attachment: fixed;
-  background-repeat: no-repeat;
-  background-size: cover; */
-  height: 100vh;
 
-  
-
-}
 
 /* .name1 {
 
@@ -67,9 +58,43 @@
     justify-content: space-around;
     flex-direction: column;
     align-items: center;
-    
-    
   }
+  .portfolio-title{
+    text-align: center;
+    margin-left: 100px;
+    margin-top: 20px;
+  }
+  .project-name{
+    margin-left: 80px;
+  }
+  p {
+    width: 80vw;
+    text-align: center;
+    padding-left: 70px;
+    /* margin-left: 100px; */
+  }
+
+    .image-app{
+      margin-top: 20px;
+      height: 250px;
+      margin-left: 100px;
+    }
+    .info {
+      padding-left: 50px;
+    }
+   
+    .github-logo{
+      margin-right: 100px;
+    }
+
+    .image2{
+      height: 225px;
+      margin-left: 100px;
+    }
+
+
+    
+    
   
 
 

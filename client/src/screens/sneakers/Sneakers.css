@@ -38,7 +38,7 @@
 }
 
 @media screen and (max-width: 480px) {
-  .surfboard-container {
+  .sneaker-container {
     width: 80%;
     display: flex;
     justify-content: space-around;
