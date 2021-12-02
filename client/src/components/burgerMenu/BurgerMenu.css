@@ -12,7 +12,7 @@
   /* Position and sizing of burger button */
   .bm-burger-button {
     position: fixed;
-    width: 36px;
+    width: 50px;
     height: 30px;
     right: 36px;
     top: 25px;
@@ -53,8 +53,9 @@
   /* General sidebar styles */
   .bm-menu {
     background: #373a47;
-    padding: 2.5em 1.5em 0;
+    /* padding: 2.5em 1.5em 0; */
     font-size: 0.6em;
+    /* margin-left: 50px; */
   }
 
   /* Morph shape necessary with bubble or elastic */

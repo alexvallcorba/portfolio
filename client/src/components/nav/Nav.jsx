@@ -6,6 +6,7 @@ import './Nav.css'
 
 function NavBar() {
   return (
+    <div>
     <ul className="nav">
       <li>
         <Link to="/">
@@ -55,7 +56,8 @@ function NavBar() {
       </li>
       <BurgerMenu  />
 
-    </ul>
+      </ul>
+      </div>
         
   );
 }

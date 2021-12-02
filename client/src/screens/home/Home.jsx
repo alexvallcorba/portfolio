@@ -25,7 +25,7 @@ function Home() {
           </a>
         </div>
         <div className="info">
-        <p className="link-github-code" >View project's code </p>
+        <p className="c" >View project's code </p>
         <a className="anchor1" target="_blank" href="https://github.com/alexvallcorba/kaimana-surfboards">
             <img className="github-logo" src="https://res.cloudinary.com/dhkeoqhmp/image/upload/e_sepia:80/v1634583817/PROJECT-4.%20KAIMANA%20SURFBOARDS%20APP/github-logo-blue_bmcetd.png" alt="Github logo" />
           </a>

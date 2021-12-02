@@ -52,6 +52,9 @@
 
 
 @media screen and (max-width: 480px) {
+  body{
+    width: 100%;
+  }
   .home {
     width: 80%;
     display: flex;
@@ -79,13 +82,17 @@
       height: 250px;
       margin-left: 100px;
     }
+
+   
+
+    .github-logo{
+      margin-right: 72px;
+    }
     .info {
       padding-left: 50px;
     }
    
-    .github-logo{
-      margin-right: 100px;
-    }
+  
 
     .image2{
       height: 225px;
