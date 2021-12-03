@@ -62,3 +62,9 @@
   margin-top: 20px;
   height: 450px;
 }
+
+@media screen and (max-width: 480px) {
+  .portfolio-title{
+    margin-top: 150px;
+  }
+}

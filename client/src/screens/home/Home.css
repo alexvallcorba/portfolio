@@ -92,11 +92,13 @@
       padding-left: 50px;
     }
    
-  
+  h3 {
+    margin-left: 100px;;
+  }
 
     .image2{
-      height: 225px;
-      margin-left: 100px;
+      height: 190px;
+      margin-left: 110px;
     }
 
 
