@@ -2,7 +2,7 @@ import "./App.css";
 import { Switch, Route } from "react-router-dom";
 import Portfolio from "./screens/portfolio/Portfolio";
 import Design from "./screens/design/Design";
-import Paintings from "./screens/paintings/Paintings";
+import ArtStuff from "./screens/artStuff/ArtStuff";
 import Sneakers from "./screens/sneakers/Sneakers";
 import About from "./screens/about/About";
 import Contact from "./screens/contact/Contact";
@@ -27,8 +27,8 @@ function App() {
           <Route path="/design">
             <Design />
           </Route>
-          <Route path="/paintings">
-            <Paintings />
+          <Route path="/artstuff">
+            <ArtStuff />
           </Route>
           <Route path="/sneakers">
             <Sneakers />

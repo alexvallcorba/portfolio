@@ -34,8 +34,8 @@ function NavBar() {
         </Link>
       </li>
       <li>
-        <Link to="/paintings" className="links">
-          PAINTINGS
+        <Link to="/artstuff" className="links">
+          ART STUFF
         </Link>
       </li>
       <li>

@@ -125,7 +125,7 @@ export default class Sidebar extends React.Component {
       <NavLink onClick={() => this.closeMenu()}className="bm-link menu-item" to="/about">ABOUT</NavLink>
       <NavLink onClick={() => this.closeMenu()}className="bm-link menu-item" to="/portfolio">WEB DEVELOPMENT</NavLink>
       <NavLink onClick={() => this.closeMenu()}className="bm-link menu-item" to="/design">DESIGN</NavLink>
-      <NavLink onClick={() => this.closeMenu()}className="bm-link menu-item" to="/paintings">PAINTINGS</NavLink>
+      <NavLink onClick={() => this.closeMenu()}className="bm-link menu-item" to="/artstuff">ART STUFF</NavLink>
       <NavLink onClick={() => this.closeMenu()}className="bm-link menu-item" to="/sneakers">CUSTOM SNEAKERS</NavLink>
       <NavLink onClick={() => this.closeMenu()} className="bm-link menu-item" to="/contact">CONTACT</NavLink>
       {/* <a className="anchor1" target="_blank" href="https://drive.google.com/file/d/1KImYTMEK-aIgGTQp05BGbtLTUVT2zp0s/view?usp=sharing">

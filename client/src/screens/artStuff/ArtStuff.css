@@ -1,0 +1,40 @@
+.piece-name{
+  font-family: "Cairo", sans-serif;
+  font-size: 23px;
+  margin-left: 50px;
+  text-align: center;
+  padding-top: 50px;
+}
+
+.art-container {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: space-around;
+  font-size: 20px;
+  margin-left: 350px;
+  margin-right: 350px;
+  padding-top: 25px;
+  font-family: 'Cairo', sans-serif;
+}
+
+.piece-image {
+  padding-top: 30px;
+  padding-left: 50px;
+  align-items: center;
+  height: 500px;
+
+}
+
+@media screen and (max-width: 480px) {
+  .art-container {
+    width: 80%;
+    display: flex;
+    justify-content: space-around;
+    flex-direction: column;
+    align-items: center;
+  }
+  .sneaker {
+    height: 150px;
+  }
+}
