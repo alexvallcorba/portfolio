@@ -302,7 +302,21 @@ function Home() {
             alt="Anxo mural"
           />
         </div>
-      </div>
+          </div>
+          <div className="art-container">
+            
+            <div class-name="art-description">
+                  <h2 className=" piece-name">Mushroom & Malus Mural</h2>
+                  <p> Mural for Anxo Cider in  Brightwood</p>
+            </div>
+            <div className="piece">
+              <img
+                className="piece-image"
+                src="https://res.cloudinary.com/dhkeoqhmp/image/upload/v1638903727/shrooms-4_awlvzl.png"
+                alt="Anxo mural"
+              />
+            </div>
+          </div>
       <div className="art-container">
         <div class-name="art-description">
               <h2 className=" piece-name">Virgen de Guadalupe</h2>
@@ -398,6 +412,20 @@ function Home() {
             className="piece-image"
             src="https://res.cloudinary.com/dhkeoqhmp/image/upload/v1638903063/blksalt_gjhvks.png"
             alt="Chalk Art blk salt"
+          />
+        </div>
+          </div>
+          <div className="art-container">
+        <div class-name="art-description">
+              <h2 className=" piece-name">Street Art</h2>
+              <p> Art work for Art show in  Washington, DC</p>
+              
+        </div>
+        <div className="piece">
+          <img
+            className="piece-image"
+            src="https://res.cloudinary.com/dhkeoqhmp/image/upload/v1638904613/wino-5_icp84l.png"
+            alt="Art Show Wino"
           />
         </div>
       </div>
