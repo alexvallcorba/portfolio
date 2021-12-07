@@ -344,6 +344,62 @@ function Home() {
             alt="Mother Nature painting"
           />
         </div>
+          </div>
+          <div className="art-container">
+        <div class-name="art-description">
+              <h2 className=" piece-name">Edu's Conga</h2>
+              <p> Art work on conga. Acrylic, Epoxy resin. Personal collection</p>
+              
+        </div>
+        <div className="piece">
+          <img
+            className="piece-image"
+            src="https://res.cloudinary.com/dhkeoqhmp/image/upload/v1638900477/conga-4_c5abon.png"
+            alt="Edu's Conga"
+          />
+        </div>
+          </div>
+          <div className="art-container">
+        <div class-name="art-description">
+              <h2 className=" piece-name">Orwel the Chicken avenger Graphic Novel</h2>
+              <p> Graphic Novel self publish</p>
+              
+        </div>
+        <div className="piece">
+          <img
+            className="piece-image"
+            src="https://res.cloudinary.com/dhkeoqhmp/image/upload/v1638901178/orwel_o2x0rg.png"
+            alt="Orwel Comic"
+          />
+        </div>
+          </div>
+          <div className="art-container">
+        <div class-name="art-description">
+              <h2 className=" piece-name">Chalk Art</h2>
+              <p> Art work on chalk for 2amys pizzeria Washington, DC</p>
+              
+        </div>
+        <div className="piece">
+          <img
+            className="piece-image1"
+            src="https://res.cloudinary.com/dhkeoqhmp/image/upload/v1638902551/2a-chalk_fxrn2y.png"
+            alt="Chalk Art 2a"
+          />
+        </div>
+          </div>
+          <div className="art-container">
+        <div class-name="art-description">
+              <h2 className=" piece-name">Chalk Art</h2>
+              <p> Art work on chalk for Black Salt Restaurant Washington, DC</p>
+              
+        </div>
+        <div className="piece">
+          <img
+            className="piece-image"
+            src="https://res.cloudinary.com/dhkeoqhmp/image/upload/v1638903063/blksalt_gjhvks.png"
+            alt="Chalk Art blk salt"
+          />
+        </div>
       </div>
         </div>
         <div>

@@ -25,6 +25,13 @@
   height: 500px;
 
 }
+.piece-image1 {
+  
+  padding-left: 50px;
+  align-items: center;
+  height: 700px;
+
+}
 
 @media screen and (max-width: 480px) {
   .art-container {
