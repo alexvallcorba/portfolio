@@ -26,6 +26,30 @@ function Sneakers() {
             alt="Vans The Slab sneaker"
           />
         </div>
+        </div>
+        <div className="sneaker-container">
+        <div>
+          <h2 className=" sneaker-name">Hello Kittie</h2>
+        </div>
+        <div className="sneaker">
+          <img
+            className="sneaker-image"
+            src="https://res.cloudinary.com/dhkeoqhmp/image/upload/v1638924141/PROJECT-4.%20KAIMANA%20SURFBOARDS%20APP/HK-3_edkwxf.png"
+            alt="Hello Kittie"
+          />
+        </div>
+        </div>
+        <div className="sneaker-container">
+        <div>
+          <h2 className=" sneaker-name">Adidas Ape</h2>
+        </div>
+        <div className="sneaker">
+          <img
+            className="sneaker-image"
+            src="https://res.cloudinary.com/dhkeoqhmp/image/upload/v1638923233/PROJECT-4.%20KAIMANA%20SURFBOARDS%20APP/lincoln_yh43ba.png"
+            alt="Adidas Ape"
+          />
+        </div>
       </div>
       <div className="sneaker-container">
         <div>

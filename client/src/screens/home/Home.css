@@ -50,11 +50,15 @@
 } */
 .home {
   display: flex;
-  flex-direction: column;
+  flex-wrap: wrap;
+  
   height: 100vh;
   width: 100vw;
+  justify-content: space-around;
+  flex-direction: row;
   align-items: center;
 }
+
 
 
 @media screen and (max-width: 480px) {

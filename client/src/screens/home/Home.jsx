@@ -114,6 +114,30 @@ function Home() {
             alt="Vans The Slab sneaker"
           />
         </div>
+          </div>
+          <div className="sneaker-container">
+        <div>
+          <h2 className=" sneaker-name">Hello Kittie</h2>
+        </div>
+        <div className="sneaker">
+          <img
+            className="sneaker-image"
+            src="https://res.cloudinary.com/dhkeoqhmp/image/upload/v1638924141/PROJECT-4.%20KAIMANA%20SURFBOARDS%20APP/HK-3_edkwxf.png"
+            alt="Hello Kittie"
+          />
+        </div>
+        </div>
+          <div className="sneaker-container">
+        <div>
+          <h2 className=" sneaker-name">Adidas Ape</h2>
+        </div>
+        <div className="sneaker">
+          <img
+            className="sneaker-image"
+            src="https://res.cloudinary.com/dhkeoqhmp/image/upload/v1638923233/PROJECT-4.%20KAIMANA%20SURFBOARDS%20APP/lincoln_yh43ba.png"
+            alt="Adidas Ape"
+          />
+        </div>
       </div>
       <div className="sneaker-container">
         <div>
@@ -428,7 +452,36 @@ function Home() {
             alt="Art Show Wino"
           />
         </div>
+          </div>
+          <div className="art-container">
+        <div class-name="art-description">
+              <h2 className=" piece-name">Munny</h2>
+              <p> Art work for Toy show at Kickballers in Washington, DC</p>
+              
+        </div>
+        <div className="piece">
+          <img
+            className="piece-image"
+            src="https://res.cloudinary.com/dhkeoqhmp/image/upload/v1638922362/PROJECT-4.%20KAIMANA%20SURFBOARDS%20APP/munny_arno4t.png"
+            alt="Munny"
+          />
+        </div>
+          </div>
+          <div className="art-container">
+        <div class-name="art-description">
+              <h2 className=" piece-name">The Oriol & the Black Eyed Susie</h2>
+              <p> Personal collection of German Jarquin</p>
+              
+        </div>
+        <div className="piece">
+          <img
+            className="piece-image"
+            src="https://res.cloudinary.com/dhkeoqhmp/image/upload/v1638924429/PROJECT-4.%20KAIMANA%20SURFBOARDS%20APP/oriol_hf7nnj.png"
+            alt="Painting of The Oriol & the Black Eyed Susie"
+          />
+        </div>
       </div>
+         
         </div>
         <div>
 

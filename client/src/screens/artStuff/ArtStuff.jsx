@@ -137,6 +137,34 @@ function ArtStuff() {
             alt="Art Show Wino"
           />
         </div>
+        </div>
+        <div className="art-container">
+        <div class-name="art-description">
+              <h2 className=" piece-name">Munny</h2>
+              <p> Art work for Toy show at Kickballers in Washington, DC</p>
+              
+        </div>
+        <div className="piece">
+          <img
+            className="piece-image"
+            src="https://res.cloudinary.com/dhkeoqhmp/image/upload/v1638922362/PROJECT-4.%20KAIMANA%20SURFBOARDS%20APP/munny_arno4t.png"
+            alt="Munny"
+          />
+        </div>
+        </div>
+        <div className="art-container">
+        <div class-name="art-description">
+              <h2 className=" piece-name">The Oriol & the Black Eyed Susie</h2>
+              <p> Personal collection of German Jarquin</p>
+              
+        </div>
+        <div className="piece">
+          <img
+            className="piece-image"
+            src="https://res.cloudinary.com/dhkeoqhmp/image/upload/v1638924429/PROJECT-4.%20KAIMANA%20SURFBOARDS%20APP/oriol_hf7nnj.png"
+            alt="Painting of The Oriol & the Black Eyed Susie"
+          />
+        </div>
       </div>
         </div>
         <div>
