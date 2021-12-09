@@ -14,7 +14,7 @@ function Home() {
     <div className="portfolio-container">
         <div className="project-description">
           <h3 className="project-name">KAIMANA SURFBOARDS</h3>
-          <p>
+          <p className="Info-project">
           Web application that allows the user to shop for surfboards and create their custom surfboards. Full CRUD and authentication. Utilized: React, Rubi on Rails, CSS. (WORK IN PROGRESS)
           </p>
       </div>
@@ -34,7 +34,7 @@ function Home() {
         </div>
         <div className="project-description">
           <h3 className="project-name">BOOM!ROASTED</h3>
-          <p>
+          <p className="Info-project">
             Web application built in a team of fellow junior engineers that allows the user to easily navigate  coffee blends and merchandise. Full CRUD and authentication. Utilized: React, Express, Mongo DB, Mongoose, Bootstarp, CSS.
           </p>
       </div>
@@ -54,7 +54,7 @@ function Home() {
         </div>
         <div className="project-description">
         <h3 className="project-name">ORWEL THE CHICKEN AVENGER</h3>
-          <p>
+          <p className="Info-project">
             App for promotion of  the graphic nobel with the same name to comic book and culinary fans. The users can navigate the app to meet the characters of the comic and learn about their characteristic and they also can create and delete sggestions for new characters. Comes with recipes that the user can download. Has a 30sec comercial of the comic made with Adobe AfterEffects. Utilized: React, CSS, Airtable.
           </p>
       </div>
@@ -75,7 +75,7 @@ function Home() {
         </div>
         <div className="project-description">
           <h3 className="project-name">COOL & WONDERFUL GUIDE 2 THE WORLD</h3>
-          <p>
+          <p className="Info-project">
             Travel guide that allows users to search anyshops, airports, hotels, restaurants, tourist locations with their address, map location and price rating all over the world. Utilized: Javascript, CSS, HTML, Yelp API.
           </p>
       </div>

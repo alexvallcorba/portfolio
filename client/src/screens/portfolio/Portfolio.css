@@ -42,6 +42,10 @@
   margin-top: 30px;
   font-family: "Cairo", sans-serif;
 }
+.info-project {
+  width: 788px;
+
+}
 .link-github-code {
   display: inline-block;
   font-size: 15px;
