@@ -30,7 +30,7 @@ function About() {
           <a
             className="anchor1"
             target="_blank"
-            href="https://drive.google.com/file/d/1KImYTMEK-aIgGTQp05BGbtLTUVT2zp0s/view?usp=sharing"
+            href="https://drive.google.com/file/d/1YGQAVt6Bgks3vSl560VWH5UkLmBDINA_/view?usp=sharing"
           >
             <h3 className="resume-about">RESUME </h3>
           </a>
