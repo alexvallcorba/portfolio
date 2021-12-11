@@ -11,6 +11,8 @@ function Sneakers() {
         src="https://res.cloudinary.com/dhkeoqhmp/image/upload/v1635268988/portfolio/work-in-progress-sign_jo26pf.png"
         />
         </div> */}
+      <h1 className="portfolio-title">SNEAKERS</h1>
+      
     <div className="sneakers-list">
       
     

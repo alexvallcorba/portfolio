@@ -165,6 +165,82 @@ function ArtStuff() {
             alt="Painting of The Oriol & the Black Eyed Susie"
           />
         </div>
+        </div>
+        
+
+        <div className="art-container">
+        <div class-name="art-description">
+              <h2 className=" piece-name">Sorrow</h2>
+              <p> Acrylic on wood, epoxy resin.</p>
+              
+        </div>
+        <div className="piece">
+          <img
+            className="piece-image"
+            src="https://res.cloudinary.com/dhkeoqhmp/image/upload/v1639261144/PROJECT-4.%20KAIMANA%20SURFBOARDS%20APP/sorrow_bqmxrv.png"
+            alt="Painting of A woman with sorrow."
+          />
+        </div>
+        </div>
+        
+        <div className="art-container">
+        <div class-name="art-description">
+              <h2 className=" piece-name">Old Crow Medicine Show</h2>
+              <p> Acrylic on wood box.</p>
+              
+        </div>
+        <div className="piece">
+          <img
+            className="piece-image"
+            src="https://res.cloudinary.com/dhkeoqhmp/image/upload/v1639261145/PROJECT-4.%20KAIMANA%20SURFBOARDS%20APP/old-crow-1_urfh0d.png"
+            alt="Painting Old Crow Medicine Show."
+          />
+        </div>
+        </div>
+        
+        <div className="art-container">
+        <div class-name="art-description">
+              <h2 className=" piece-name">Kool Kids</h2>
+              <p> Acrylic on wood, epoxy resin.</p>
+              
+        </div>
+        <div className="piece">
+          <img
+            className="piece-image"
+            src="https://res.cloudinary.com/dhkeoqhmp/image/upload/v1639261145/PROJECT-4.%20KAIMANA%20SURFBOARDS%20APP/cool-kids_e044ga.png"
+            alt="Painting Kool Kids."
+          />
+        </div>
+        </div>
+        
+        <div className="art-container">
+        <div class-name="art-description">
+              <h2 className=" piece-name">S-10</h2>
+              <p> Acrylic on wood, epoxy resin.</p>
+              
+        </div>
+        <div className="piece">
+          <img
+            className="piece-image"
+            src="https://res.cloudinary.com/dhkeoqhmp/image/upload/v1639261145/PROJECT-4.%20KAIMANA%20SURFBOARDS%20APP/s10_zog6zm.png"
+            alt="Painting S-10."
+          />
+        </div>
+        </div>
+        
+        <div className="art-container">
+        <div class-name="art-description">
+              <h2 className=" piece-name">Green Hat Gin</h2>
+              <p> Acrylic on wood for Green Hat Gin distillery in Washington, DC.</p>
+              
+        </div>
+        <div className="piece">
+          <img
+            className="piece-image"
+            src="https://res.cloudinary.com/dhkeoqhmp/image/upload/v1639262034/PROJECT-4.%20KAIMANA%20SURFBOARDS%20APP/green-hat-2_fxrva7.png"
+            alt="Painting Green Hat Gin."
+          />
+        </div>
       </div>
         </div>
         <div>
