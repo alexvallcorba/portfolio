@@ -2,4 +2,22 @@
 
 .App {
   height: 100vh;
+  width: 100vw;
+}
+
+@media screen and (max-device-width: 375px) {
+  .App {
+    height: 100%;
+  }
+  .home {
+    flex-direction: column;
+    align-items: center;
+
+  }
+  .video {
+    width:100%;
+    height: 100%;
+
+
+  }
 }

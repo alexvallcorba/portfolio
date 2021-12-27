@@ -241,7 +241,21 @@ function ArtStuff() {
             alt="Painting Green Hat Gin."
           />
         </div>
-      </div>
+        </div>
+        <div className="art-container">
+        <div class-name="art-description">
+              <h2 className=" piece-name">Monkey Photo Business</h2>
+              <p> Acrylic on wood, epoxy resin.</p>
+              
+        </div>
+        <div className="piece">
+          <img
+            className="piece-image"
+            src="https://res.cloudinary.com/dhkeoqhmp/image/upload/v1640624507/PROJECT-4.%20KAIMANA%20SURFBOARDS%20APP/monkey-business_jet2qd.png"
+            alt="Painting Monkey."
+          />
+        </div>
+        </div>
         </div>
         <div>
 
