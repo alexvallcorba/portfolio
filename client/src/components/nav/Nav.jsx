@@ -54,7 +54,7 @@ function NavBar() {
         <h3 className="resume">RESUME</h3>
         </a>
       </li>
-      <BurgerMenu  />
+      {/* <BurgerMenu  /> */}
 
       </ul>
       </div>
