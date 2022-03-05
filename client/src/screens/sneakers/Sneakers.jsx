@@ -11,24 +11,25 @@ function Sneakers() {
         src="https://res.cloudinary.com/dhkeoqhmp/image/upload/v1635268988/portfolio/work-in-progress-sign_jo26pf.png"
         />
         </div> */}
-      <h1 className="portfolio-title">SNEAKERS</h1>
+      <h1 className="portfolio-title">CUSTOM SNEAKERS</h1>
       
     <div className="sneakers-list">
       
     
         
-      <div className="sneaker-container">
+      
+        <div className="sneaker-container">
         <div>
-          <h2 className=" sneaker-name">Vans The Slab</h2>
+          <h2 className=" sneaker-name">The Way of the Househusband</h2>
         </div>
         <div className="sneaker">
           <img
             className="sneaker-image"
-            src="https://res.cloudinary.com/dhkeoqhmp/image/upload/v1635358803/portfolio/thesklab-shoe_htrbed.png"
-            alt="Vans The Slab sneaker"
+            src="https://res.cloudinary.com/dhkeoqhmp/image/upload/v1646446033/PROJECT-4.%20KAIMANA%20SURFBOARDS%20APP/Air-Jordan_qf5por.png"
+            alt="Air Jordan 1 househusband"
           />
         </div>
-        </div>
+      </div>
         <div className="sneaker-container">
         <div>
           <h2 className=" sneaker-name">Hello Kittie</h2>
@@ -88,7 +89,19 @@ function Sneakers() {
             alt="Vans Iron Man"
           />
         </div>
-      </div>
+        </div>
+        <div className="sneaker-container">
+        <div>
+          <h2 className=" sneaker-name">Vans The Slab</h2>
+        </div>
+        <div className="sneaker">
+          <img
+            className="sneaker-image"
+            src="https://res.cloudinary.com/dhkeoqhmp/image/upload/v1635358803/portfolio/thesklab-shoe_htrbed.png"
+            alt="Vans The Slab sneaker"
+          />
+        </div>
+        </div>
       </div>
       </>
   );
