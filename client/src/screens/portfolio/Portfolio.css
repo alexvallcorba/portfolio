@@ -70,6 +70,26 @@
 
 @media screen and (max-width: 480px) {
   .portfolio-title{
-    margin-top: 150px;
+    width: 80%;
+    display: flex;
+    justify-content: space-around;
+    flex-direction: column;
+    align-items: center;
   }
+  .image-app{
+    height: 200px;
+  }
+  .project-description {
+      display: flex;
+      align-items: center;
+      flex-direction: column;
+      justify-content: space-around;
+      font-size: 10px;
+      font-family: "Cairo", sans-serif;
+      margin-top: auto;
+      margin-bottom: -10px;
+      margin-left: 25px;
+      margin-right: 25px;
+  }
+  
 }

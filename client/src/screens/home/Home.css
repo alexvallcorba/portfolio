@@ -67,55 +67,19 @@
 
 @media screen and (max-width: 480px) {
   
+  
   .home {
 
-    height: 100%;
+    width: 80%;
+    display: flex;
+    justify-content: space-around;
     flex-direction: column;
     align-items: center;
-  }
-  .portfolio-title{
-    text-align: center;
-    margin-left: 100px;
-    margin-top: 20px;
-  }
-  .project-name{
-    margin-left: 80px;
-  }
-  p {
-    width: 80vw;
-    text-align: center;
-    padding-left: 70px;
-    /* margin-left: 100px; */
-  }
-
-    .image-app{
-      margin-top: 20px;
-      height: 250px;
-      margin-left: 100px;
-    }
-
-   
-
-    .github-logo{
-      margin-right: 42px;
-    }
-    /* .info {
-      padding-left: 50px;
-    } */
-   
-  h3 {
-    margin-left: 100px;;
-  }
-
-    .image2{
-      height: 190px;
-      /* margin-left: 110px; */
-    }
-
-
     
-    
-  
-
+  }
+  .portfolio-titel{
+    font-size: 10px;
+  }
 
 }
+

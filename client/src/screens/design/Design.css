@@ -53,3 +53,29 @@
   margin-top: 25px;
 }
 
+@media screen and (max-width: 480px) {
+  .design-name{
+    width: 80%;
+    display: flex;
+    justify-content: space-around;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .image2 {
+    height: 200px;
+  }
+  .design-description {
+      display: flex;
+      align-items: center;
+      flex-direction: column;
+      justify-content: space-around;
+      font-size: 10px;
+      font-family: "Cairo", sans-serif;
+      margin-top: auto;
+      margin-bottom: -10px;
+      margin-left: 25px;
+      margin-right: 25px;
+  }
+  
+}
