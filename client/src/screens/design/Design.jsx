@@ -67,6 +67,19 @@ export default function Design() {
             />
           </div>
         </div>
+        <h2 className="design-name">Logo Design</h2>
+        <div className="design-description">
+          <p>Client: Madison Street Farms. Washington, DC</p>
+        </div>
+        <div className="logo-cagla">
+          <div className="logo-page-image">
+            <img
+              className="image3"
+              src="https://res.cloudinary.com/dhkeoqhmp/image/upload/v1652374333/portfolio/MDS_Farms_Portfolio_b0alng.png"
+              alt="Madison Street Farms"
+            />
+          </div>
+        </div>
         <h2 className="design-name">Logo Design and Mural</h2>
         <div className="design-description">
           <p>Client: Green Almond Pantry. Washington, DC</p>
